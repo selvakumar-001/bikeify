@@ -1,16 +1,34 @@
-# bikeify
+# 🚴‍♂️ Bikeify
 
-A new Flutter project.
+**Bikeify** is a smart bike tracking application that helps users monitor their travel and locate their bikes in real-time. Whether you're commuting or exploring new routes, Bikeify ensures your journeys are tracked and your bike is always within reach.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🔍 **Real-time Bike Tracking**  
+  View your bike's live location on a map with accurate GPS positioning.
 
-A few resources to get you started if this is your first Flutter project:
+- 📈 **Travel History**  
+  Track and review your previous rides with details like distance, duration, and route.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🗺️ **Route Visualization**  
+  Visualize your path on a map to analyze and share your journeys.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🚨 **Bike Locator**  
+  Can't find your bike? Use the built-in locator to quickly identify its last known location.
+
+- 📊 **Analytics Dashboard**  
+  View insights like total distance traveled, number of trips, and more.
+
+## 🛠️ Tech Stack
+
+> Update this section based on what you're using.
+
+- **Frontend:** Flutter  
+- **Maps & Location:** openstreetmap
+
+## 📦 Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/selvakumar-001/bikeify.git
+   cd bikeify
